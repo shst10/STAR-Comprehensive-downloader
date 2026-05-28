@@ -16,7 +16,7 @@
 
 아래 링크를 클릭하면 실행 파일(.exe)을 다운로드할 수 있습니다.
 
-* [**STAR 종합 다운로더 최신 버전 다운로드**](여기에_실행파일_다운로드_링크를_넣으세요)
+* [**STAR 종합 다운로더 최신 버전 다운로드**](https://github.com/shst10/STAR-Comprehensive-downloader/releases/download/v1.0.0/STAR-Comprehensive.downloader.exe)
 
 ---
 
