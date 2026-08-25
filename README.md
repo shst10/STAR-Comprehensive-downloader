@@ -16,7 +16,7 @@
 
 아래 링크를 클릭하면 실행 파일(.exe)을 다운로드할 수 있습니다.
 
-* [**STAR 종합 다운로더 최신 버전 다운로드**](https://github.com/shst10/STAR-Comprehensive-downloader/releases/download/v1.0.0/STAR-Comprehensive.downloader.exe)
+* [**STAR 종합 다운로더 최신 버전 다운로드**](https://github.com/starshpy/STAR-Comprehensive-downloader/releases/download/v2/STAR-Comprehensive.downloader.exe)
 
 ---
 
@@ -24,10 +24,11 @@
 
 * **완벽한 포터블 지원**: 복잡한 라이브러리 세팅 없이 .exe 파일 단 하나로 구동
 * **유튜브**: 고화질 영상 및 오디오 다운로드
-* **사운드클라우드**: 고품질 오디오 파일 다운로드
+* **사운드클라우드**: 고품질 오디오 파일 다운로드 / 플레이리스트 다운로드 지원
 * **애니라이프**: 고화질 애니메이션 다운로드
 * **틱톡**: 워터마크 제거 + 고화질 영상 다운로드 
-* **트위터**: 고화질 사진 및 고화질 영상 다운로드 
+* **트위터**: 고화질 사진 및 고화질 영상 다운로드
+* **인스타그램**: 고화질 사진 및 고화질 영상 다운로드
 
 ---
 
