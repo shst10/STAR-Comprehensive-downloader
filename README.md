@@ -16,7 +16,7 @@
 
 아래 링크를 클릭하면 실행 파일(.exe)을 다운로드할 수 있습니다.
 
-* [**STAR 종합 다운로더 최신 버전 다운로드**](https://github.com/starshpy/STAR-Comprehensive-downloader/releases/download/v2/STAR-Comprehensive.downloader.exe)
+* [**STAR 종합 다운로더 최신 버전 다운로드**](https://github.com/starshpy/STAR-Comprehensive-downloader/releases/download/v2/STAR-Comprehensive.downloader-v2.exe)
 
 ---
 
